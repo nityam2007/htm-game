@@ -16,7 +16,7 @@ Some data is stored in firebase and firestore. (highscores in Flappy Bird, saveg
 
 **View current version:**
 
-https://www.gptgames.dev/
+https://games.nityam.eu.org/
 
 
 ## Changelog
